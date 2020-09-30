@@ -1,0 +1,7 @@
+﻿Costo mínimo de tratamiento de aguas residuales,,,,,,,,,,,
+Ciudad,No tratada,Tratamiento,Descarga,Costo unit.,Concentración,Estándar,Costo del,,Flujo en,Remoción,Costo
+,P,x,W,d,en el río,de CA,tratamiento,Segmento,el río,en el río,Total
+1,1.00E+09,8.00E-01,2.00E+08,2.00E-06,20,20,1600,1 a 3,1.00E+07,0.5,12600
+2,2.00E+09,5.00E-01,1.00E+09,2.00E-06,20,20,2000,2 a 3,5.00E+07,0.35,
+3,4.00E+09,5.63E-01,1.75E+09,4.00E-06,20,20,9000,3 a 4,1.10E+08,0.6,
+4,2.50E+09,0.00E+00,2.50E+09,4.00E-06,15.28,20,0,4 a 5,2.50E+08,,
